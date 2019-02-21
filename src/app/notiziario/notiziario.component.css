@@ -1,0 +1,33 @@
+table,tr,td{
+	background-color:#f4f0e8;
+	border-style:ridge;
+	border-collapse:collapse;
+	font-family:courier;
+	font-weight: bold;
+	padding:19px;
+	box-shadow:5px 5px 3px grey;
+	 background-clip: border-box; 
+	}
+
+	
+#titolo,#autore,#descr{font-weight:bolder;
+font-family:fantasy;
+letter-spacing:7px;
+text-shadow:2px 3px green;  }
+
+tr{
+	text-align:justify-all;
+}
+h1{
+	font-family: comic;
+	color:black;
+}
+div{
+	background-color:#dce0e8;
+	text-align: center;
+}
+
+
+ 
+
+ 
